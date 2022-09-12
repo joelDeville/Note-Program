@@ -9,6 +9,7 @@ import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
 public class NoteTaker extends Application {
+    // main runner method for GUI and user interaction
     @Override
     public void start(Stage stage) {
         // note display pane and entire window pane created
